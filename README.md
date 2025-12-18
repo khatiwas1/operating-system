@@ -1,1 +1,1 @@
-# [operating-system](Operating.docx)
+Operating system.docx
